@@ -1,7 +1,7 @@
 # Toc Expand Bundle
 
 ## Sample App
-https://demos.conterra.de/mapapps/resources/apps/downloads_toxexpand/index.html
+https://demos.conterra.de/mapapps/resources/apps/downloads_tocexpand/index.html
 
 ## Installation Guide
 **Requirement: map.apps 4.8.0**
