@@ -15,8 +15,8 @@
  */
 module.exports = {
     root: {
-        bundleName: "TOC Test",
-        bundleDescription: "TOC Test"
+        bundleName: "TOC Expand",
+        bundleDescription: "The Toc Expand bundle allows you to expand groups in the toc at startup."
     },
     "de": true
 };

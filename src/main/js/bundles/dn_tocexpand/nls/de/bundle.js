@@ -14,6 +14,6 @@
  * limitations under the License.
  */
 module.exports = {
-    bundleName: "TOC Test",
-    bundleDescription: "TOC Test"
+    bundleName: "TOC Expand",
+    bundleDescription: "Das Toc Expand Bundle erlaubt es Karteninhalte zum Start der App zu \u00f6ffnen."
 };
