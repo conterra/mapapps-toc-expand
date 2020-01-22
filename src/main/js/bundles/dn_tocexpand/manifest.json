@@ -1,0 +1,29 @@
+{
+    "name": "dn_tocexpand",
+    "version": "1.0.0-SNAPSHOT",
+    "title": "${bundleName}",
+    "description": "${bundleDescription}",
+    "vendor": "con terra GmbH",
+    "productName": "con terra Developer Network",
+    "dependencies": {
+        "toc": "^4.7.0"
+    },
+    "components": [
+        {
+            "name": "TocItemExpander",
+            "properties": {},
+            "provides": [],
+            "references": [
+                {
+                    "name": "_mapWidgetModel",
+                    "providing": "map-widget.MapWidgetModel"
+                },
+                {
+                    "name": "_tocWidget",
+                    "providing": "dijit.Widget",
+                    "filter": "(widgetRole=tocWidget)"
+                }
+            ]
+        }
+    ]
+}
