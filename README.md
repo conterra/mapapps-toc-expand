@@ -1,7 +1,7 @@
-# Toc Expand Bundle
+⚠️ This bundle is no longer needed in map.apps 4.13 or later.
+See https://demos.conterra.de/mapapps/resources/jsregistry/root/toc/latest/README.md#how-to-expand-layers-in-toc-widget
 
-## Sample App
-https://demos.conterra.de/mapapps/resources/apps/downloads_tocexpand/index.html
+# Toc Expand Bundle
 
 ## Installation Guide
 **Requirement: map.apps 4.8.0**
